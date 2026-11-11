@@ -192,25 +192,25 @@ The following checks were performed:
 ## Screenshots
 
 ### Overall KPI Query Output
-![KPI Analysis](screenshots/kpi_analysis.png)
+![KPI Analysis](Screenshots/kpi_analysis.png)
 
 ### Transaction Success vs Failure
-![Success Rate](screenshots/success_failure_analysis.png)
+![Success Rate](Screenshots/success_failure_analysis.png)
 
 ### State-wise Transaction Analysis
-![State Analysis](screenshots/state_analysis.png)
+![State Analysis](Screenshots/state_analysis.png)
 
 ### Bank Performance Analysis
-![Bank Analysis](screenshots/bank_performance.png)
+![Bank Analysis](Screenshots/bank_performance.png)
 
 ### Merchant Category Ranking
-![Merchant Analysis](screenshots/merchant_category_analysis.png)
+![Merchant Analysis](Screenshots/merchant_category_analysis.png)
 
 ### Fraud Analysis
-![Fraud Analysis](screenshots/fraud_analysis.png)
+![Fraud Analysis](Screenshots/fraud_analysis.png)
 
 ### Advanced SQL - Month-over-Month Growth
-![MoM Growth](screenshots/monthly_growth_analysis.png)
+![MoM Growth](Screenshots/monthly_growth_analysis.png)
 
 ---
 
